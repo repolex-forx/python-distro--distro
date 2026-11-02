@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/python-distro/distro/commit/3fba7d3e19c84e5bb1f15c22b1a5a6db6e8f07c7",
       "git:hexsha": "3fba7d3e19c84e5bb1f15c22b1a5a6db6e8f07c7",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/python-distro/distro/commit/2f626be146900d089dc130b774abe0372c9301a2",
